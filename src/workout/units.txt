@@ -1,0 +1,3 @@
+apple = 6.4 oz 
+banana = 4.2 oz
+orange = 4.2 oz
